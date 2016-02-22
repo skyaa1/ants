@@ -8,10 +8,10 @@ class Topic extends CI_Controller {
 	{
 	echo '토픽 펭지1';
 	}
-  public function get($id,$as){
+  public function get($id1,$as1){
 
-    echo $id;
-    echo $as;
+    echo $id1;
+    echo $as1;
   }
 
 }
