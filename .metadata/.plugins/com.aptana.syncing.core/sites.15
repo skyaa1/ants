@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sites>
+<site>
+<name>htdocs &lt;-&gt; ec2-54-238-246-145.ap-northeast-1.compute.amazonaws.com</name>
+<source>workspace:/htdocs</source>
+<destination>aptanavfs://c924737a-2d4d-4856-879b-cff9095b8a85/</destination>
+</site>
+<site>
+<name>ot1 &lt;-&gt; ec2-54-238-246-145.ap-northeast-1.compute.amazonaws.com</name>
+<source>workspace:/ot1</source>
+<destination>aptanavfs://cf47cd66-b350-4fc9-a7e8-f0c8d62169ca/</destination>
+</site>
+</sites>

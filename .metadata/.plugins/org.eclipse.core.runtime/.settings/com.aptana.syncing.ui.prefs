@@ -1,0 +1,5 @@
+AutoSyncChangesWithRemote\:htdocs=false
+AutoSyncChangesWithRemote\:ot=false
+AutoSyncChangesWithRemote\:ot1=true
+AutoSyncDirection\:ot1=BOTH
+eclipse.preferences.version=1

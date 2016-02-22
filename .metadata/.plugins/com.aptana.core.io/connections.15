@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<connections>
+<connection id="c924737a-2d4d-4856-879b-cff9095b8a85" type="sftp">
+<name>ec2-54-238-246-145.ap-northeast-1.compute.amazonaws.com</name>
+<host>ec2-54-238-246-145.ap-northeast-1.compute.amazonaws.com</host>
+<path>/var/www/html/egoing</path>
+<login>ubuntu</login>
+<privateKeyFile>C:\Users\Administrator\Downloads\ot.pem</privateKeyFile>
+<encoding>UTF-8</encoding>
+<compression>AUTO</compression>
+</connection>
+<connection id="e1a49f75-d33c-411c-9594-1e0716f22ca4" type="workspace">
+<name>htdocs</name>
+<path>/htdocs</path>
+</connection>
+<connection id="cf47cd66-b350-4fc9-a7e8-f0c8d62169ca" type="sftp">
+<name>ec2-54-238-246-145.ap-northeast-1.compute.amazonaws.com</name>
+<host>ec2-54-238-246-145.ap-northeast-1.compute.amazonaws.com</host>
+<path>/var/www/html/egoing</path>
+<login>ubuntu</login>
+<privateKeyFile>C:\Users\Administrator\Downloads\ot.pem</privateKeyFile>
+<encoding>UTF-8</encoding>
+<compression>AUTO</compression>
+</connection>
+<connection id="9b1c5aa6-32b9-4867-a552-94729132af3f" type="workspace">
+<name>ot1</name>
+<path>/ot1</path>
+</connection>
+</connections>
