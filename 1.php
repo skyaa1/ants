@@ -4,6 +4,6 @@
   } echo nickname('1');
   <li>dfdf<li>
   <li>asdfas
-  <li>sdfsf
+  <li>sdfsf<asd
 
 ?>
